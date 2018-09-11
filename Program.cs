@@ -20,7 +20,7 @@ namespace leaderboard
                     foreach(WorkshopLevel level in WorkshopIndexer.levels)
                     {
                         level.getLeaderboard();
-                        string path = level.fileName + ".json";
+                        string path = "output/" + level.fileName + ".json";
                         string json = JsonConvert.SerializeObject(level, Formatting.Indented);
                         System.IO.File.WriteAllText(path,json);
                     }
