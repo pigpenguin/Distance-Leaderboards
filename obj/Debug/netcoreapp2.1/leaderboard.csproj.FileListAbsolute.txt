@@ -1,0 +1,16 @@
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/leaderboard.deps.json
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/leaderboard.runtimeconfig.json
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/leaderboard.runtimeconfig.dev.json
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/leaderboard.dll
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/leaderboard.pdb
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.csprojAssemblyReference.cache
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.csproj.CoreCompileInputs.cache
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.AssemblyInfoInputs.cache
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.AssemblyInfo.cs
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.csproj.CopyComplete
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.dll
+/home/corvid/Code/leaderboard/obj/Debug/netcoreapp2.1/leaderboard.pdb
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/steam_api.dll
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/steam_appid.txt
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/libsteam_api.so
+/home/corvid/Code/leaderboard/bin/Debug/netcoreapp2.1/Steamworks.NET.dll
